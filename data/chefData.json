@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Giada De Laurentiis",
-        "chefPhoto": "https://i.imgur.com/Pktn8Ln.jpg",
+        "chefPhoto": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "yearOfExperiences": 20,
         "numberOfRecipes": 400,
         "shortBio": "Italian-born American chef, writer, and television personality.",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "name": "Mario Batali",
-        "chefPhoto": "https://i.imgur.com/Vc3q3Kj.jpg",
+        "chefPhoto": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "yearOfExperiences": 30,
         "numberOfRecipes": 250,
         "shortBio": "American chef, writer, restaurateur, and media personality.",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "name": "Lidia Bastianich",
-        "chefPhoto": "https://i.imgur.com/cLz79bP.jpg",
+        "chefPhoto": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "yearOfExperiences": 50,
         "numberOfRecipes": 500,
         "shortBio": "Italian-American celebrity chef, author, and television host.",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "name": "Carlo Cracco",
-        "chefPhoto": "https://i.imgur.com/16kM0q3.jpg",
+        "chefPhoto": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "yearOfExperiences": 25,
         "numberOfRecipes": 150,
         "shortBio": "Italian chef and television personality.",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "name": "Massimo Bottura",
-        "chefPhoto": "https://i.imgur.com/pX5WjzV.jpg",
+        "chefPhoto": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "yearOfExperiences": 30,
         "numberOfRecipes": 300,
         "shortBio": "Italian restaurateur and chef-owner of Osteria Francescana in Modena, Italy.",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "name": "Antonio Carluccio",
-        "chefPhoto": "https://i.imgur.com/pFMgTCJ.jpg",
+        "chefPhoto": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "yearOfExperiences": 50,
         "numberOfRecipes": 200,
         "shortBio": "Italian chef, restaurateur, and television personality.",
