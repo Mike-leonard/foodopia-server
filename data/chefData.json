@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Giada De Laurentiis",
+        "chefPhoto": "https://i.imgur.com/Pktn8Ln.jpg",
+        "yearOfExperiences": 20,
+        "numberOfRecipes": 400,
+        "shortBio": "Italian-born American chef, writer, and television personality.",
+        "likes": 12500,
+        "bannerPhoto": "https://i.imgur.com/2EH0KjP.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mario Batali",
+        "chefPhoto": "https://i.imgur.com/Vc3q3Kj.jpg",
+        "yearOfExperiences": 30,
+        "numberOfRecipes": 250,
+        "shortBio": "American chef, writer, restaurateur, and media personality.",
+        "likes": 8600,
+        "bannerPhoto": "https://i.imgur.com/0QmgDCh.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lidia Bastianich",
+        "chefPhoto": "https://i.imgur.com/cLz79bP.jpg",
+        "yearOfExperiences": 50,
+        "numberOfRecipes": 500,
+        "shortBio": "Italian-American celebrity chef, author, and television host.",
+        "likes": 9800,
+        "bannerPhoto": "https://i.imgur.com/4EG4UvX.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Carlo Cracco",
+        "chefPhoto": "https://i.imgur.com/16kM0q3.jpg",
+        "yearOfExperiences": 25,
+        "numberOfRecipes": 150,
+        "shortBio": "Italian chef and television personality.",
+        "likes": 4200,
+        "bannerPhoto": "https://i.imgur.com/s2gZVi7.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Massimo Bottura",
+        "chefPhoto": "https://i.imgur.com/pX5WjzV.jpg",
+        "yearOfExperiences": 30,
+        "numberOfRecipes": 300,
+        "shortBio": "Italian restaurateur and chef-owner of Osteria Francescana in Modena, Italy.",
+        "likes": 15300,
+        "bannerPhoto": "https://i.imgur.com/WNhJnkn.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Antonio Carluccio",
+        "chefPhoto": "https://i.imgur.com/pFMgTCJ.jpg",
+        "yearOfExperiences": 50,
+        "numberOfRecipes": 200,
+        "shortBio": "Italian chef, restaurateur, and television personality.",
+        "likes": 5400,
+        "bannerPhoto": "https://i.imgur.com/KeFnOpW.jpg"
+    }
+]
