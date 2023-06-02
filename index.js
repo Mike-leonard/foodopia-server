@@ -1,7 +1,7 @@
 const express = require('express')
 var cors = require('cors')
 const app = express()
-const port = 3000
+const port = process.env.PORT || 3000
 
 const chefData = require('./data/chefData.json')
 const recipeList = require('./data/recipeData.json')
@@ -26,8 +26,6 @@ app.get('/recipe/:id', (req, res) => {
     const singleChefRecipes = recipeList.filter(recipes => parseInt(recipes.chefId) === id);
     res.send(singleChefRecipes)
 })
-
-
 
 
 app.listen(port, () => {
